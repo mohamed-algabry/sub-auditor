@@ -92,7 +92,7 @@ go install -v github.com/sensepost/gowitness@latest
 Clone the repository and make the script executable:
 
 ```bash
-git clone [https://github.com/yourusername/subdomain-audit.git](https://github.com/yourusername/subdomain-audit.git)
+git clone https://github.com/mohamed-algabry/sub-auditor.git
 cd subdomain-audit
 chmod +x subdomain_audit.sh
 ```
