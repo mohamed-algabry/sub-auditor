@@ -93,8 +93,8 @@ Clone the repository and make the script executable:
 
 ```bash
 git clone https://github.com/mohamed-algabry/sub-auditor.git
-cd subdomain-audit
-chmod +x subdomain_audit.sh
+cd sub-auditor
+chmod +x sub-auditor.sh
 ```
 
 ## 🚀 Usage
