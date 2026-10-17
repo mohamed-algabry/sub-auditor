@@ -112,7 +112,7 @@ Argument	Description	Required?
 Example:
 
 ```bash
-./subdomain_audit.sh tesla.com
+./sub-auditor.sh tesla.com
 ```
 The tool will create a directory named subdomain_audit_tesla_com/ (sanitised domain name) and store all results inside.
 
